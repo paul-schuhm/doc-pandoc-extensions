@@ -107,7 +107,7 @@ Voir le fichier [`template.md`](./template.md) pour un récapitulatif d'un docum
 
 ## Références
 
-- [Site officiel de pandoc](https://pandoc.org)
 - `man pandoc` : pages de manuel de pandoc
+- [Site officiel de pandoc](https://pandoc.org)
 - [Pandoc manual : Extensions](https://pandoc.org/MANUAL.html#extensions)
 - [Pandoc manual : Syntax highlighting](https://pandoc.org/MANUAL.html#syntax-highlighting), pour mettre en exergue le code source dans différents langages et options

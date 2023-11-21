@@ -1,0 +1,26 @@
+#mycode{
+    color:red;
+}
+
+.bg-custom{
+    background: rgb(213, 213, 213);
+    padding: 1em;
+}
+
+.bash{
+    background: rgb(230, 230, 230);
+    color: rgb(90, 136, 20);
+}
+
+
+/* Padding avec numéro de ligne */
+pre.sourceCode{
+    padding: 1em;
+}
+pre > code.sourceCode > span > a:first-child::before {
+    padding: 1em;
+}
+
+#special{
+    font-size: larger;
+}
